@@ -310,7 +310,7 @@ main {
 #tachen {
     min-height: 745px;
     margin-top: 128px;
-    background: url("../image/background/bggirls.png") center center/contain no-repeat;
+    background: url("../image/background/bggirls.png") right center/cover no-repeat;
 }
 
 .tachen__item {
@@ -351,7 +351,6 @@ main {
   }
 
   #info {
-      margin-top: -40px;
       padding-top: 115px;
       min-height: 606px;
       background: #F2F8FC;
